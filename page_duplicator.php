@@ -3,7 +3,9 @@
 Plugin Name: Page Duplicator
 Description: A simple plugin to duplicate pages in WordPress.
 Version: 1.0
-Author: Your Name
+Author:            Shishir Raven
+Author URI:        https://iamshishir.com/
+Author Email:      shishir.raven@gmail.com
 */
 
 function duplicate_page($post_id) {
